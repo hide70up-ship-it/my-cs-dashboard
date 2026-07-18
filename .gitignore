@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Obsidian (cache/state files only — keep actual settings like app.json, appearance.json)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/

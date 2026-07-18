@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "9863dd128ab9ebf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fdb878bb6810768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34482f7abf2458d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_insights/i-001-채널별-재문의율.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "i-001-채널별-재문의율"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae7bbf74675896ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ecc9c0175a2efa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa60f2fb3163654e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "2010cb1d4a76f6e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "a4f95038c8630a0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2f0e274b7ba6d17",
+    "type": "split",
+    "children": [
+      {
+        "id": "71f62c601d4d9399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd484983239e85fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "c9b88a0476c82b12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "0ab2f7e3f58a82ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "1a2fcfaaea1bac46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "af7c58d31c2c960a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "34482f7abf2458d1",
+  "lastOpenFiles": [
+    "00_inbox/inbox_01_raw_data_presence.md",
+    "04_insights/insight_03_저만족도_원인.md",
+    "04_insights/i-001-채널별-재문의율.md",
+    "INDEX.md",
+    "05_log/2026-07-11.md",
+    "무제 1",
+    "무제",
+    "04_insights/insight_05_반복_재문의와_이탈의_연결.md",
+    "tmp_cross_tab.py",
+    "01_questions/q-003-재문의-발생패턴.md",
+    "components/output/04_채널별_CSAT_재문의.png",
+    "components/04_채널별_CSAT_재문의.py",
+    "components/output/03_카테고리별_저만족도.png",
+    "components/03_카테고리별_저만족도.py",
+    "04_insights/insight_04_채널별_재문의율_반비례.md",
+    "01_questions/q-004-저만족도-원인.md",
+    "tmp_channel_compare.py",
+    "tmp_join_stats.py",
+    "tmp_calc.py",
+    "components/output/02_joined_satisfaction_consultations_customers.csv",
+    "components/output/02_csat_nps_scorecard.png",
+    "components/02_csat_nps_scorecard.py",
+    "components/04_移댄뀒怨좊━_媛먯꽦_援먯감.png",
+    "02_data/data_voc_schema.md",
+    "components/02_해지관련_불만유형.png",
+    "components/output/01_voc_overview.png",
+    "04_insights/insight_02_voc_negative_types.md",
+    "무제.md",
+    "02_data/support_tickets_schema.md",
+    "02_data/data_voc.md",
+    "02_data/data_consultations_schema.md",
+    "02_data/data_customers_schema.md",
+    "02_data/data_satisfaction_schema.md",
+    "02_data/data_usage_history_schema.md",
+    "raw/README.md",
+    "CLAUDE.md",
+    "01_questions/q-002_voc_trend.md",
+    "02_data/customers_schema.md",
+    "02_data/feedback_schema.md",
+    "01_questions/q-004_service_quality_factors.md"
+  ]
+}
